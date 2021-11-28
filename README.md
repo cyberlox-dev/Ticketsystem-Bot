@@ -1,4 +1,4 @@
-<center><a href="https://ibb.co/fqrmCvH"><img src="https://i.ibb.co/BcT8gNB/ticket-text-blue-weiss.jpg" alt="ticket-text-blue-weiss" border="0"></a>
+![Discord Tickets](https://i.ibb.co/CMvxWdx/gradient.png)
 
 # 🎫 Ticketsystem-Bot
 ## 📝 Inhaltsverzeichnis
