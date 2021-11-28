@@ -1,6 +1,6 @@
 ![Discorddd Tickets](https://img.eartharoid.me/insecure/plain/https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient.png@png)
 
-
+<a href="https://ibb.co/fqrmCvH"><img src="https://i.ibb.co/BcT8gNB/ticket-text-blue-weiss.jpg" alt="ticket-text-blue-weiss" border="0"></a>
 # 🎫 Ticketsystem-Bot
 ## 📝 Inhaltsverzeichnis
 
