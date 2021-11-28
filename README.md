@@ -49,7 +49,7 @@ Befehl | Beschreibung
 ticket | Verwaltet das Ticket, schließt, löscht, erstellt Log usw.
 
 ## 🙋‍♂️ Mitmachen
-Wenn Sie dazu beitragen möchten, teilen Sie dieses Repository bitte mit und senden Sie einen Pull-Request! Du kannst auch dem [Discord-Server](https://discord.gg/KBTKwWH3NG) beitreten oder mich direkt auf Discord unter `zhon12345#8585` kontaktieren. Jeder ist willkommen, neue Funktionen vorzuschlagen und den Bot zu verbessern!
+Wenn Sie dazu beitragen möchten, teilen Sie dieses Repository bitte mit und senden Sie einen Pull-Request! Du kannst auch dem [Discord-Server](https://discord.gg/KBTKwWH3NG) beitreten oder mich direkt auf Discord unter `Pascal#0397` kontaktieren. Jeder ist willkommen, neue Funktionen vorzuschlagen und den Bot zu verbessern!
 
 ## 📄 Lizenz
 Dieses Projekt ist unter der MIT License 2.0 lizenziert – Details finden Sie in der Datei [LICENSE](https://github.com/cyberlox-dev/Ticketsystem-Bot/LICENSE).
