@@ -6,9 +6,7 @@
 + [Beitragen](https://github.com/cyberlox-dev/Ticketsystem-Bot#%EF%B8%8F-Beitragen)
 + [Lizenz](https://github.com/cyberlox-dev/Ticketsystem-Bot#-Lizenz)
 
-<br>
 ![Discord Tickets](https://img.eartharoid.me/insecure/plain/https://static.eartharoid.me/discord-tickets/logo/wordmark/gradient.png@png)
-<br>
 
 ## ❔ Über
 Dies ist ein Ticketsystem-Bot, der von `Pascal#0397` erstellt wurde. Es wird mit [Node.js](https://nodejs.org/en/) und [Discord.js](https://discord.js.org) codiert.
